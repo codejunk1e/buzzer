@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">buzzer</string>
+    <string name="smalltalk">SmallTalk</string>
+    <string name="there_for_the_litttle_things">...There for the litttle things</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="welcome">WELCOME</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+</resources>
